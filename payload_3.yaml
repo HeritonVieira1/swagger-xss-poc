@@ -3,7 +3,7 @@ swagger: "2.0"
 info:
   title: Swagger Webhook PoC
   version: "1.0.0"
-  description: "<img src='https://webhook.site/f11d9dee-6214-420d-bac0-bd664178afab?source=swagger-poc' />"
+  description: "<img src='SEU_WEBHOOK' />"
 
 paths:
   /ping:
